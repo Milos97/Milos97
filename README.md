@@ -4,6 +4,6 @@ Senior Frontend Developer in Podgorica, Montenegro. Six years in React and TypeS
 
 Currently open to remote frontend roles.
 
-- Website — [personal-website-v2-blue.vercel.app](https://personal-website-v2-blue.vercel.app)
+- Website — [https://milos-bogosavljevic.vercel.app/](https://milos-bogosavljevic.vercel.app/)
 - LinkedIn — https://www.linkedin.com/in/milos-bogosavljevic-17143b152
 - Email — milosnkbogosavljevic@gmail.com
